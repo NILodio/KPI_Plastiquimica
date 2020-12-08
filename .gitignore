@@ -3,8 +3,16 @@ __pycache__
 *cache
 temp*
 
+# Data
+data
+
+#Environment
+plasti
+
+# Mac files
 .DS_Store
 .vscode
+
 #Ignore temps directory
 .env*
 
